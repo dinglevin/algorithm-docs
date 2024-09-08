@@ -136,3 +136,6 @@ dist
 .vuepress/.cache
 # VuePress default build output directory
 .vuepress/dist
+
+# honkit构建输出
+_book
