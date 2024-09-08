@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # 允许 GitHub Actions 对仓库内容进行写操作
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
