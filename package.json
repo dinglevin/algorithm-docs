@@ -1,0 +1,15 @@
+{
+  "name": "algorithm-docs",
+  "version": "1.0.0",
+  "description": "Levin的算法学习文档",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "devDependencies": {
+    "honkit": "^5.1.4"
+  },
+  "author": "dinglevin",
+  "license": "AGPL-3.0-or-later"
+}
